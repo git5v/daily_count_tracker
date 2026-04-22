@@ -1,11 +1,7 @@
-
 attrs==26.1.0
-
 cryptography==3.4.7
 deprecation==2.1.0
 exceptiongroup==1.3.1
-
-
 httpcore==1.0.9
 httpx==0.28.1
 hyperframe==6.1.0
@@ -16,7 +12,6 @@ jsonschema-specifications==2025.9.1
 markdown-it-py==3.0.0
 markupsafe==3.0.3
 mdurl==0.1.2
-
 pandas==2.3.3
 pillow==11.3.0
 postgrest==2.28.3
@@ -37,15 +32,12 @@ pytz==2026.1.post1
 realtime==2.28.3
 referencing==0.36.2
 requests==2.32.5
-
 streamlit==1.50.0
 StrEnum==0.4.15
 strictyaml==1.7.3
 supabase==2.28.3
 supabase-auth==2.28.3
 supabase-functions==2.28.3
-
 urllib3==2.6.3
-
 websockets==15.0.1
 
